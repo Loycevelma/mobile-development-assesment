@@ -7,7 +7,7 @@ value()
 
 }
 fun name () {
-    println("hello marie")
+    println("hello loyce")
 
 }
 fun modulus() {
